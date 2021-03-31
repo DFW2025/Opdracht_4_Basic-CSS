@@ -1,0 +1,17 @@
+.black-border {border: 2px solid black;}
+#green-background {background-color: rgb(196, 199, 13);}
+
+.center{margin: auto;width: 60%;border: 2px solid #73AD21;padding: 10px;background-color: rgb(146, 163, 116);}
+
+header {font-family: Verdana, Geneva, Tahoma, sans-serif;color:rgb(5, 10, 83)}
+main {font-family: Verdana, Geneva, Tahoma, sans-serif;color:rgb(17, 12, 37);font-size: 12px;}
+footer {font-family: Verdana, Geneva, Tahoma, sans-serif;color:rgb(17, 12, 37);font-size: 12px;}
+body {height: 100%;margin: 0;background: linear-gradient(45deg, #cad1d1, #06227e);}
+article {margin: auto;width: 35% ;padding: 10px;}
+
+.pyellow {font-family: Verdana, Geneva, Tahoma, sans-serif;color:rgb(218, 230, 62)}
+
+#image {background-color: rgb(214, 209, 209);box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);margin-bottom: 20px;padding: 5px;border-radius: 300px;}
+ol li::before {content: ""; background-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3/fb-heart.gif);background-size: contain;display: inline-block;width: 1em;height: 1em;position: relative;top: 0.1rem;margin-right: 0.2rem;}
+
+
